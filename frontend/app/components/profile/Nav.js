@@ -55,7 +55,7 @@ const Nav = () => {
       {/* Top Bar */}
       <div className="flex items-center justify-between px-6 py-3">
         <Link href="/pages/profile" className="text-3xl font-bold text-purple-100 hover:text-purple-300 transition-all duration-300">
-          Narrato
+          StoryThread
         </Link>
         <div className="flex items-center space-x-4">
           {/* Notification Button */}
