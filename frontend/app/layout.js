@@ -7,7 +7,7 @@ const pacifico = Pacifico({subsets : ['latin'] , weight : ['400'],variable : "--
 const amaranth = Amaranth({subsets : ['latin'] , weight : ['400','700'],variable : "--font-amaranth"})
 const comic = Comic_Neue({subsets : ['latin'] , weight : ['400','700','300'],variable : "--font-comic"})
 export const metadata = {
-  title: "Narrato",
+  title: "StoryThread",
   description: "a platform that enables writers and storytellers to come together and create unique, collaborative stories. The project allows users to contribute chapters, suggest plot twists, and engage in dynamic, community-driven storytelling.",
 };
 
